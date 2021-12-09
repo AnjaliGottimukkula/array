@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class TwoArraySum {
   public static void main(String[] args) {
 
-    
+    //scanner class
     Scanner scan = new Scanner(System.in);
 
     // take number of elements in both array
